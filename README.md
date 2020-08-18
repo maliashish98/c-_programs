@@ -2,7 +2,7 @@
 ****************************************************************
 ## List of C programs : 
 ----------------------------------------------------------------
-[1.Check that number is Perfect Number or Not.  ](c-_programs/Check that number is Perfect Number or Not.c)
+1.Check that number is Perfect Number or Not.  [a link](https://github.com/user/repo/blob/branch/other_file.md)
 2.Sum of the Digits in Given Numbers.  
 3.Factorial of given number without using recursive function.  
 4.Program to print Sum of n numbers.  
