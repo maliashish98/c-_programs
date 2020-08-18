@@ -1,2 +1,2 @@
-# c-_programs
+# c_programs
 C Program Solutions
